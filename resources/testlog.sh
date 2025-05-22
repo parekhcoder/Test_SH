@@ -33,3 +33,4 @@ log_message "Processing step 1"
 sleep 2
 log_message "Processing step 2"
 log_message "Script completed"
+tail -f /dev/null
